@@ -27,7 +27,8 @@ Set stop time for 1ms and Run the Simulation.
 
 ![ac analysis](https://github.com/user-attachments/assets/81496881-1f19-446b-a245-d8659533b46f)  
 
-# **Calculations**  
+# **Calculations**:  
+
 
 
 
