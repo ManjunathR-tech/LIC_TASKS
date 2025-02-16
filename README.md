@@ -46,7 +46,8 @@ For DC Analysis,to get thr calculated value of Id,you need to vary the width che
 |   0.8um  |  78.37uA |   1.67V  |
 |   0.4um  |  78.37uA |   1.72V  |
 |   0.2um  |  55.2uA  |   1.74V  |
-|  0.203um |  55.5uA  |   1.74V  |
+|  0.203um |  55.5uA  |   1.74V  |  
+
       
 
 
