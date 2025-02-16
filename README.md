@@ -71,6 +71,8 @@ Gain(db)=-9.104db
 
 ## INFERENCE:  
 1.Width is directly proportional to drain current.  
+2.There is 180 degree phase shift between input and output in Transient Analysis. 
+
 
 
 
