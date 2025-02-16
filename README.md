@@ -21,7 +21,10 @@ Resistor, n-mosfet,Voltage source(Power Supply),AC ground,Wires.
 1.In edit simulation option,change from dc offset to transient.Set the DC offset as 0.9V,Amplitude 50mV,Frequency 1KHz.  
 Set stop time for 1ms and Run the Simulation.  
 
-![op trans](https://github.com/user-attachments/assets/f2e7e996-c8a4-4140-b884-0325cdff738f)
+![op trans](https://github.com/user-attachments/assets/f2e7e996-c8a4-4140-b884-0325cdff738f)  
+## **AC Analysis**:  
+1.In edit simulation option or command,change from transient to Ac anlysis.Set type of sweep as Decade,number of points per decade as 20,start and stop frequency as 0.1Hz and 1THz and Run the Simulation.  
+
 
 
 
