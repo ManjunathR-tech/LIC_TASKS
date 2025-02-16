@@ -25,7 +25,10 @@ Set stop time for 1ms and Run the Simulation.
 ## **AC Analysis**:  
 1.In edit simulation option or command,change from transient to Ac anlysis.Set type of sweep as Decade,number of points per decade as 20,start and stop frequency as 0.1Hz and 1THz and Run the Simulation.  
 
-![ac analysis](https://github.com/user-attachments/assets/81496881-1f19-446b-a245-d8659533b46f)
+![ac analysis](https://github.com/user-attachments/assets/81496881-1f19-446b-a245-d8659533b46f)  
+
+# **Calculations**  
+
 
 
 
