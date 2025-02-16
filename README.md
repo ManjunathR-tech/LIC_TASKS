@@ -66,7 +66,12 @@ Ac Analysis:
 ![ac analysis](https://github.com/user-attachments/assets/81496881-1f19-446b-a245-d8659533b46f)  
 
 We got Frequency=210,4GHz.  
-Gain(db)=-9.104db
+Gain(db)=-9.104db  
+
+
+## INFERENCE:  
+1.Width is directly proportional to drain current.  
+
 
 
 
