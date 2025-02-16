@@ -55,11 +55,18 @@ Dc Analysis:
 As seen above,We got Id=55.5uA for width 0.203um and Vout=1.745V.  
 Therefore the Dc operating point is(1.745V,55.5uA).  
 
+Transient Analysis:  
+
+![op trans](https://github.com/user-attachments/assets/f2e7e996-c8a4-4140-b884-0325cdff738f)  
+
+We got Vout=1.745V for width=0.203um and phase shift of 180 degree.
+
 Ac Analysis:
 
 ![ac analysis](https://github.com/user-attachments/assets/81496881-1f19-446b-a245-d8659533b46f)  
 
-We got Vout=1.745V for width=0.203um and phase shift of 180 degree.
+We got Frequency=210,4GHz.  
+Gain(db)=-9.104db
 
 
 
