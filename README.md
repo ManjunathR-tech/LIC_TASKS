@@ -40,6 +40,14 @@ Hence the Q point = (Vout,Id) = (1.745V,55.5uA)
 
 ## TABULAR COLUMN:  
 For DC Analysis,to get thr calculated value of Id,you need to vary the width check for the corresponding Vout.  
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+|          |          |          |
+|          |          |          |
+|          |          |          |
+|          |          |          |
+|          |          |          |
+|          |          |          |
 
 
 
