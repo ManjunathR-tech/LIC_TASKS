@@ -9,5 +9,8 @@ Resistor, n-mosfet,Voltage source(Power Supply),AC ground,Wires.
 ## **PROCEDURE**:  
 1.Design the common source amplfier circuit as per the circuit diagram using LTspice.  
 2.Right click on power supply and set gate vtg 0.9V,VDD as 1.8V and Resistor value as 1k.  
-3.Download the library file 
+3.Download the library file.  
+4.Import the library file to LTspice using spice directive called(.op).
+
+
 
