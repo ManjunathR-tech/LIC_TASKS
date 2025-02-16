@@ -12,7 +12,9 @@ Resistor, n-mosfet,Voltage source(Power Supply),AC ground,Wires.
 3.Download the library file.  
 4.Import the library file to LTspice using spice directive called(.op).
 5.Find the cuurent value for the given power rating P=100µW.
-6.Now by doing trial and error method we can find L and W value. Which is L=1u and W=6.85u.
+6.Now by doing trial and error method we can find L and W value. Where is L=1u and W=6.85u.  
+7.In edit simulation option or command,we have to select the dc output print(DC op pnt) and Run the Simulation.  
+
 
 
 
