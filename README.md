@@ -1,4 +1,3 @@
-#######
 **Expermient-1-**
 DC,Transient and AC Analysis of Common Source Amplifier Using LTspice
 **AIM**:
