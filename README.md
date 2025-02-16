@@ -48,12 +48,18 @@ For DC Analysis,to get thr calculated value of Id,you need to vary the width che
 |   0.2um  |  55.2uA  |   1.74V  |
 |  0.203um |  55.5uA  |   1.74V  |  
 ## Result:  
-Dc Analysis  
+Dc Analysis:  
 
 ![Dc analysis task 1](https://github.com/user-attachments/assets/c520c0aa-e6c6-475f-b606-191508b36fa8)  
 
 As seen above,We got Id=55.5uA for width 0.203um and Vout=1.745V.  
 Therefore the Dc operating point is(1.745V,55.5uA).  
+
+Ac Analysis:
+
+![ac analysis](https://github.com/user-attachments/assets/81496881-1f19-446b-a245-d8659533b46f)  
+
+We got Vout=1.745V for width=0.203um and phase shift of 180 degree.
 
 
 
