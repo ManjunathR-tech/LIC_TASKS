@@ -14,9 +14,15 @@ Resistor, n-mosfet,Voltage source(Power Supply),AC ground,Wires.
 5.Find the cuurent value for the given power rating P=100µW.  
 6.Now by doing trial and error method we can find L and W value. Where is L=1u and W=6.85u.  
 ## **DC Analysis**:  
-7.In edit simulation option or command,we have to select the dc output print(DC op pnt) and Run the Simulation.    
+1.In edit simulation option or command,we have to select the dc output print(DC op pnt) and Run the Simulation.    
 
 ![Dc analysis task 1](https://github.com/user-attachments/assets/c520c0aa-e6c6-475f-b606-191508b36fa8)  
+## **Transient Analyis**:  
+1.In edit simulation option,change from dc offset to transient.Set the DC offset as 0.9V,Amplitude 50mV,Frequency 1KHz.  
+Set stop time for 1ms and Run the Simulation.  
+
+
+
 
 
 
