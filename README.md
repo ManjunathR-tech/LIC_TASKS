@@ -5,4 +5,6 @@ To Analyse the DC,Transient and AC Analysis of Common Source Amplifier Using LTs
 ## **COMPONENTS**:  
 Resistor, n-mosfet,Voltage source(Power Supply),AC ground,Wires.  
 ## **CIRCUIT DIAGRAM**:  
-![Image](https://github.com/user-attachments/assets/b532a953-89db-425d-b885-72963173c5eb)
+![Image](https://github.com/user-attachments/assets/b532a953-89db-425d-b885-72963173c5eb)  
+## **PROCEDURE**:  
+Build the common source amplfier circuit as per the circuit diagram using LTspice  
