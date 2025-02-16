@@ -28,15 +28,15 @@ Set stop time for 1ms and Run the Simulation.
 ![ac analysis](https://github.com/user-attachments/assets/81496881-1f19-446b-a245-d8659533b46f)  
 
 # **Calculations**:  
-Given the power as 100uW ,we know that Vdd is 1.8V
-from the formula P=VI
-Id=P/V = 100u/1.8 = 55.5uA
-Now,
-from the loop equation : Vdd=IdRd + Vout
-(where Id=55.5uA,Rd=1kohm,Vdd=1.8V)
-Therefore,
-Vout=1.745V
-Hence the Q point = (Vout,Id) = (1.745V,55.5uA)
+Given the power as 100uW ,we know that Vdd is 1.8V  
+from the formula P=VI  
+Id=P/V = 100u/1.8 = 55.5uA  
+Now,  
+from the loop equation : Vdd=IdRd + Vout  
+(where Id=55.5uA,Rd=1kohm,Vdd=1.8V)  
+Therefore,  
+Vout=1.745V  
+Hence the Q point = (Vout,Id) = (1.745V,55.5uA)  
 
 
 
