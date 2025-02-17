@@ -125,7 +125,7 @@ Gain,Av = Vout/Vin = 1.1/0.7=1.57
 3.AC Analysis:
 ![Screenshot 2025-02-18 003556](https://github.com/user-attachments/assets/a7fb56aa-9926-4abd-b614-df32e5a61190)
 
-Gain(dB)= -9.254dB  
+Gain(dB)= 3.9dB  
 
 ##  **INFERENCE:**  
 1.There is 180 degree phase shift between input and output in Transient Analysis.  
