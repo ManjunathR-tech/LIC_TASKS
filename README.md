@@ -113,6 +113,10 @@ Vov = Vgs-Vth = Vin-Vth = 0.7-0.36= 0.36V
 where Vds>Vov. Mosfet lies in saturation region.  
 Therefore the dc operting point is(1.1V,55.5uA)  
 
+2. Transient Analysis:
+ ![tans](https://github.com/user-attachments/assets/6d023064-09e0-49b6-bae2-3593bb77d1f4)
+ 
+
 
 
 
