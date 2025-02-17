@@ -118,6 +118,7 @@ Therefore the dc operting point is(1.1V,55.5uA)
 ![image](https://github.com/user-attachments/assets/ebd1b219-595d-4617-9883-cfa86a2fc9bd)  
 We got Vout=1.1V for width=2,02um and a phase shift of 180 degree.  
 Gain,Av = Vout/Vin = 1.1/0.7=1.57  
+
 3.AC Analysis:
 ![Screenshot 2025-02-17 224244](https://github.com/user-attachments/assets/5eb49f58-9e7a-4afb-bf6f-e706154ecf54)
 
