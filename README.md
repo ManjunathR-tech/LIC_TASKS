@@ -107,6 +107,12 @@ For the DC Analysis, to get the calculated value of Id , you need to vary the wi
 Given the power as 100uW ,we know that Vdd is 1.8V  
 from the formula P=VI  
 Id=P/V = 100u/1.8 = 55.5uA  
+We got Id=55.5uA for width=2.02um and Vout=1.1V.  
+Vds=Vout=1.1V  
+Vov = Vgs-Vth = Vin-Vth = 0.7-0.36= 0.36V  
+where Vds>Vov. Mosfet lies in saturation region.  
+Therefore the dc operting point is(1.1V,55.5uA)  
+
 
 
 
