@@ -114,7 +114,9 @@ where Vds>Vov. Mosfet lies in saturation region.
 Therefore the dc operting point is(1.1V,55.5uA)  
 
 2. Transient Analysis:
- ![tans](https://github.com/user-attachments/assets/6d023064-09e0-49b6-bae2-3593bb77d1f4)
+ ![tans](https://github.com/user-attachments/assets/6d023064-09e0-49b6-bae2-3593bb77d1f4)  
+We got Vout=1.1V for width=2,02um and a phase shift of 180 degree.  
+Gain,Av = Vout/Vin = 1.1/0.7=1.57
  
 
 
