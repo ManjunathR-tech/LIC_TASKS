@@ -74,6 +74,8 @@ Gain(db)=-9.104db
 2.There is 180 degree phase shift between input and output in Transient Analysis. 
 
 
+#  **CIRCUIT DIAGRAM**
+
 
 
 
