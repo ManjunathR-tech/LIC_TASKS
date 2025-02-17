@@ -1,4 +1,4 @@
-# **Expermient-1-**  
+![task 2 ckt](https://github.com/user-attachments/assets/a80607ac-c4d2-40a1-8520-cbb915165141)# **Expermient-1-**  
 ## **DC,Transient and AC Analysis of Common Source Amplifier Using LTspice**  
 ## **AIM**:  
 To Analyse the DC,Transient and AC Analysis of Common Source Amplifier Using LTspice.  
@@ -76,7 +76,25 @@ Gain(db)=-9.104db
 
 #  **CIRCUIT DIAGRAM 2:**  
 
-![task 2 ckt](https://github.com/user-attachments/assets/b0aca44b-578e-4a65-aef9-20dcb6aa0721)
+![task 2 ckt](https://github.com/user-attachments/assets/b0aca44b-578e-4a65-aef9-20dcb6aa0721)  
+
+##  **COMPONENTS:**  
+PMOSFET(180nm technology),NMOSFET(180nm technology),Voltage supply,AC ground.  
+
+## **PROCEDURE:**  
+1.Build the above Circuit using LTspice software.  
+2.Download and save the library file and LT splice file to a folder.  
+3.Import the library file to LTspice file using spice directive .op
+4.Design a diode connected PMOSFET such that it always operates in saturation region.
+5.Set the gate voltage of NMOSFET to 0.7V and maintain the supply voltage as 1.8V only.
+6.Set the length and width of both the transistor as 180nm and 1um.
+7.The given power rating is 100 micro watt. So find the current for this power rating.
+8.Firstly conduct the DC Analysis of the circuit. For this vary the width of CMOSN to get the calculated value as the result of the simulation as drain current is directly proportional to width of the transistor.
+9.For Transient Analysis set the dc offset as 0.9V, amplitude 50mV, and frequency as 1kHz and keep the stop time for 3ms and run.
+10.For AC Analysis set the sweep as decade , number of points per decade as 20, start frequency as 0.1Hz and stop frequency as 1T(Tera)Hz.
+
+
+
 
 
 
