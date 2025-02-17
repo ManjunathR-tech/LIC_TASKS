@@ -93,6 +93,25 @@ PMOSFET(180nm technology),NMOSFET(180nm technology),Voltage supply,AC ground.
 9.For Transient Analysis set the dc offset as 0.9V, amplitude 50mV, and frequency as 1kHz and keep the stop time for 3ms and run.  
 10.For AC Analysis set the sweep as decade , number of points per decade as 20, start frequency as 0.1Hz and stop frequency as 1T(Tera)Hz.  
 
+## **TABULAR COLOUMN:**  
+For the DC Analysis, to get the calculated value of Id , you need to vary the width and check for the corresponding Vout.  
+|  Width   |  Current |   Vout   |
+|----------|----------|----------|
+|    1um   |   27uA   |   1V     |
+|   1.2um  |  32.6uA  |   1V     |
+|   1.4um  |  38.1uA  |   1V     |
+|   1.6um  |  43.5uA  |   1V     |
+|    2um   |  54.5uA  |   1V     |  
+## Result:  
+1.DC Analysis:  
+Given the power as 100uW ,we know that Vdd is 1.8V  
+from the formula P=VI  
+Id=P/V = 100u/1.8 = 55.5uA  
+
+
+
+
+
 
 
 
