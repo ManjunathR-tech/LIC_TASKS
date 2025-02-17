@@ -1,4 +1,5 @@
-![task 2 ckt](https://github.com/user-attachments/assets/a80607ac-c4d2-40a1-8520-cbb915165141)# **Expermient-1-**  
+#  **Expermient-1-**  
+![task 2 ckt](https://github.com/user-attachments/assets/a80607ac-c4d2-40a1-8520-cbb915165141)
 ## **DC,Transient and AC Analysis of Common Source Amplifier Using LTspice**  
 ## **AIM**:  
 To Analyse the DC,Transient and AC Analysis of Common Source Amplifier Using LTspice.  
