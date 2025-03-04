@@ -70,7 +70,7 @@ Run the simulation.
     1.1=0.511+x  
     x=0.589V
 
-    AC Analysis:  
+# AC Analysis :  
     
     ![Screenshot 2025-03-04 212951](https://github.com/user-attachments/assets/d277b655-0195-4459-b00a-c86808a76b91)
     
@@ -79,7 +79,10 @@ Run the simulation.
 ## CIRCUIT 2 : Current Source-Loaded Differential Pair:  
 
 
-![Screenshot 2025-03-05 014414](https://github.com/user-attachments/assets/0ffb09e3-ae0d-47cc-a789-e7da553c70b6)
+![Screenshot 2025-03-05 014414](https://github.com/user-attachments/assets/0ffb09e3-ae0d-47cc-a789-e7da553c70b6)  
+
+# DC analysis :
+
 
    
 
