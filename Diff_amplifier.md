@@ -100,6 +100,13 @@ Run the simulation.
 
 ![mosfet current dc](https://github.com/user-attachments/assets/cc531f54-5f44-44c3-abe7-4c5e761e8d24)
 
+### Transient Analysis :  
+
+![Screenshot 2025-03-05 021743](https://github.com/user-attachments/assets/ad8ad54c-187d-4666-82dd-73c0cd1bc344)  
+
+### AC Analysis :  
+
+
 
 
 
