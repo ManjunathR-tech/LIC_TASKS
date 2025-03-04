@@ -45,7 +45,7 @@ Above circuit depecits the two NMOSFET having same Vdd connected to a single res
   
   ![Screenshot 2025-03-04 203942](https://github.com/user-attachments/assets/32f4794a-a87d-4656-864b-6d1f14ee01de)
 
-- Operating point (1.7V , 0.43mA) is obtained at length=180nm and width=2.536uum for both the MOSFETs.
+- Operating point (1.10V , 0.438mA) is obtained at length=180nm and width=2.536uum for both the MOSFETs.
 
  ![Screenshot 2025-03-04 210733](https://github.com/user-attachments/assets/a67474b3-9ab0-4f96-a407-d85b36247270)
 
@@ -54,7 +54,7 @@ Above circuit depecits the two NMOSFET having same Vdd connected to a single res
     Vds=Vgs-Vth+x  
     Vd-Vs=Vg-Vs-Vth+x  
     Vo-Vp=Vin-Vp-Vth+x  
-    1.1-0.4=1-0.4-0.497+x  
+    1.1-0.4=1-0.4-0.489+x  
     0.7=0.103+x  
     x=0.497V
 
