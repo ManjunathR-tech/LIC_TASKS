@@ -94,7 +94,14 @@ Run the simulation.
 ![current ac](https://github.com/user-attachments/assets/fc497957-f5fe-418e-8a45-fef233d9f220)  
 
 
-## CIRCUIT 3 : Differential Pair with Single MOSFET as Current Source
+## CIRCUIT 3 : Differential Pair with Single MOSFET as Current Source  
+
+### DC analysis :  
+
+![mosfet current dc](https://github.com/user-attachments/assets/cc531f54-5f44-44c3-abe7-4c5e761e8d24)
+
+
+
 
 
 
