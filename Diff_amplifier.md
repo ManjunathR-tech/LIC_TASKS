@@ -19,6 +19,11 @@ Active Load Differential Pair (MOSFET as Load):- Both Iss and Rd are replaced wi
 - *Vocm* = 1.7V 
 - *Vp* = 0.6V
 
+  With above specifications also extract the following parameters:
+- DC operating point
+- Input and output maximum swing
+- Gain
+
 
 
 
