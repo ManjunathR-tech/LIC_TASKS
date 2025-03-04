@@ -24,6 +24,10 @@ With above specifications also extract the following parameters:
 - Input and output maximum swing
 - Gain
 
+  ![WhatsApp Image 2025-03-05 at 00 07 17_b075c03f](https://github.com/user-attachments/assets/24521ea2-13f6-4d45-a674-a3725ff690dd)
+
+
+
 
 
 
