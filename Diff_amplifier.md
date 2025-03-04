@@ -46,6 +46,12 @@ Above circuit depecits the two NMOSFET having same Vdd connected to a single res
   ![Screenshot 2025-03-04 203942](https://github.com/user-attachments/assets/32f4794a-a87d-4656-864b-6d1f14ee01de)
 
 - Operating point (1.10V , 0.438mA) is obtained at length=180nm and width=2.536uum for both the MOSFETs.
+  caluculate vincm(min), Vincm(max), Vout(min), Vout(max) .
+Vincm(min)= Vth + Vp =0.489+ 0.6 = 1.089
+Vincm(max) = Vdd - (Id*Rd) + Vth = 2.218V
+Vout(min) = Vov1 + Vov3 = ()+ = 0.94V
+Vout(max) = Vdd-(Id*Rd) = 1.738V
+
 
  ![Screenshot 2025-03-04 210733](https://github.com/user-attachments/assets/a67474b3-9ab0-4f96-a407-d85b36247270)
 
@@ -54,14 +60,20 @@ Above circuit depecits the two NMOSFET having same Vdd connected to a single res
     Vds=Vgs-Vth+x  
     Vd-Vs=Vg-Vs-Vth+x  
     Vo-Vp=Vin-Vp-Vth+x  
-    1.1-0.4=1-0.4-0.489+x  
-    0.7=0.103+x  
-    x=0.497V
+    1.7-0.6=1.6-0.6-0.489+x  
+    1.1=0.511+x  
+    x=0.589V
 
-    x=0.497-Vp  
-    x=0.497-0.4  
-    x=0.197  
-    x=197mV  
+    x=0.589-Vp  
+    x=0.589-0.6  
+    x= 
+    x= mV  
+
+    ![Screenshot 2025-03-04 212951](https://github.com/user-attachments/assets/d277b655-0195-4459-b00a-c86808a76b91)
+
+    
+ - Gain obtained is 10.5dB\
+  -3dB frequency is found out to be 
 
 
 
