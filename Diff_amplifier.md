@@ -46,13 +46,13 @@ Above circuit depecits the two NMOSFET having same Vdd connected to a single res
   ![Screenshot 2025-03-04 203942](https://github.com/user-attachments/assets/32f4794a-a87d-4656-864b-6d1f14ee01de)
 
 - Operating point (1.10V , 0.438mA) is obtained at length=180nm and width=2.536uum for both the MOSFETs.
-  caluculate vincm(min), Vincm(max), Vout(min), Vout(max) .
-Vincm(min)= Vth + Vp =0.489+ 0.6 = 1.089
-Vincm(max) = Vdd - (Id*Rd) + Vth = 2.218V
-Vout(min) = Vov1 + Vov3 = ()+ = 0.94V
-Vout(max) = Vdd-(Id*Rd) = 1.738V
+  caluculate vincm(min), Vincm(max), Vout(min), Vout(max).  
+Vincm(min)= Vth + Vp =0.489+ 0.6 = 1.089  
+Vincm(max) = Vdd - (Id*Rd) + Vth = 2.218V  
+Vout(min) = Vov1 + Vov3 = ()+ = 0.94V  
+Vout(max) = Vdd-(Id*Rd) = 1.738V  
 
-Perform Transient Analysis :  
+Perform Transient Analysis :    
 Replace DC input with an AC signal.  
 Use SINE(dc_offset, Amplitude, Frequency).  
 Go to "Simulate" > "Edit Simulation Cmd" > "Transient".  
