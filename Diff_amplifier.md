@@ -81,7 +81,10 @@ Run the simulation.
 
 ![Screenshot 2025-03-05 014414](https://github.com/user-attachments/assets/0ffb09e3-ae0d-47cc-a789-e7da553c70b6)  
 
-### DC analysis :
+### DC analysis :  
+
+![current dc](https://github.com/user-attachments/assets/93b7f3c9-d289-4b60-b051-e39028d19a5d)
+
 
 
    
