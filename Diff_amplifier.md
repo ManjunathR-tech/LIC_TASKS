@@ -26,7 +26,7 @@ With above specifications also extract the following parameters:
 
   ![WhatsApp Image 2025-03-05 at 00 07 17_b075c03f](https://github.com/user-attachments/assets/24521ea2-13f6-4d45-a674-a3725ff690dd)
 
-  ### Differential Amplifier with a Resistive Load
+  ### Circuit 1: Differential Amplifier with a Resistive Load
   ![IMG_20250303_074814.jpg](https://github.com/user-attachments/assets/cfc32586-fcce-4aa7-b1e8-74ae135d6dd4)
 
 Above circuit depecits the two common source amplifier having same Vdd connected to a single resistor Rss(Ron3) this constitutes differential amplifier with resistive load.
