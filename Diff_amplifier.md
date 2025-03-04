@@ -1,1 +1,1 @@
-## *Experiment - 03* {Analysis of MOS Differential Amplifier}
+## *Experiment - 03* {Analysis of MOS Differential pair Amplifier}
