@@ -49,6 +49,12 @@ Above circuit depecits the two NMOSFET having same Vdd connected to a single res
 
 - ![Screenshot 2025-03-04 210733](https://github.com/user-attachments/assets/a67474b3-9ab0-4f96-a407-d85b36247270)
 
+  Input maximum swing can be obtain using equation\
+    Vds>=Vov+x\
+    Vds=Vgs-Vth+x\
+    Vd-Vs=Vg-Vs-Vth+x\
+    Vo-Vp=Vin-Vp-Vth+x\
+
 
 
 
