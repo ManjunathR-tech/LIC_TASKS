@@ -52,6 +52,12 @@ Vincm(max) = Vdd - (Id*Rd) + Vth = 2.218V
 Vout(min) = Vov1 + Vov3 = ()+ = 0.94V
 Vout(max) = Vdd-(Id*Rd) = 1.738V
 
+Perform Transient Analysis :  
+Replace DC input with an AC signal.  
+Use SINE(dc_offset, Amplitude, Frequency).  
+Go to "Simulate" > "Edit Simulation Cmd" > "Transient".  
+Set Stop Time: 5ms.  
+Run the simulation.  
 
  ![Screenshot 2025-03-04 210733](https://github.com/user-attachments/assets/a67474b3-9ab0-4f96-a407-d85b36247270)
 
@@ -72,8 +78,8 @@ Vout(max) = Vdd-(Id*Rd) = 1.738V
     ![Screenshot 2025-03-04 212951](https://github.com/user-attachments/assets/d277b655-0195-4459-b00a-c86808a76b91)
 
     
- - Gain obtained is 10.5dB\
-  -3dB frequency is found out to be 
+ - Gain obtained is 10.5dB
+   
 
 
 
