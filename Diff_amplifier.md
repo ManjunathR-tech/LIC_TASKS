@@ -42,6 +42,9 @@ Above circuit depecits the two NMOSFET having same Vdd connected to a single res
 * Vary W/L to get the required Voutcm.  
 * Vary Rd to set exact Voutcm.  
 * Go to "Simulate" > "Edit Simulation Cmd" > "DC op pnt".
+  
+  ![Screenshot 2025-03-04 203942](https://github.com/user-attachments/assets/32f4794a-a87d-4656-864b-6d1f14ee01de)
+
 
 
 
