@@ -8,6 +8,11 @@
 
  Differential Pair with Single MOSFET Current Source:-A single MOSFET acts as a current source instead of using a current source.This simplifies the design while still improving gain.  
 
+Active Load Differential Pair (MOSFET as Load):- Both Iss and Rd are replaced with a mosfet.Gain is very high.  
+
+
+
+
  
 
  
