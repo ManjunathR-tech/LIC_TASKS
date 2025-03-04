@@ -4,7 +4,11 @@
 ***There are four types differential amplifier:***   
  Resistively Loaded Differential Amplifier:- The resistively loaded MOSFET differential amplifier is the simplest type of differential amplifier. It consists of two MOSFETs (M1 & M2) operating in saturation mode, Rss resistor, and also two resistors as load resistances at the drain terminals.  
  
- Differential Pair with Current Source:- Replacing the source resistor (𝑅ss) with a current source improves the gain, stability, and common-mode rejection ratio (CMRR) of the amplifier. 
+ Differential Pair with Current Source:- Replacing the source resistor (𝑅ss) with a current source improves the gain, stability, and common-mode rejection ratio (CMRR) of the amplifier.  
+
+ Differential Pair with Single MOSFET Current Source:-A single MOSFET acts as a current source instead of using a current source.This simplifies the design while still improving gain.  
+
+ 
 
  
  
