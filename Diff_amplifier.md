@@ -11,13 +11,13 @@
 Active Load Differential Pair (MOSFET as Load):- Both Iss and Rd are replaced with a mosfet.Gain is very high.  
 
 ### *Aim*
-  Perform  DC, Transient and AC analysis of differential amplifier with the following specifications using LT Spice      
+  Perform  DC, Transient and AC analysis of differential amplifier with the following specifications using LT Spice simulation software.     
 
-- *Vdd* = 2V 
-- *Vin* = 1V 
-- *Power budget* = 1mW 
-- *Vo,cm* = 1.1V 
-- *Vp* = 0.4V
+- *Vdd* = 3.2V
+- *Vincm* = 1.6V 
+- *Power budget* <= 2.8mW 
+- *Vocm* = 1.7V 
+- *Vp* = 0.6V
 
 
 
