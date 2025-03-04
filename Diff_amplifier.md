@@ -71,10 +71,10 @@ Run the simulation.
     x=0.589V
 
 ### AC Analysis :  
+
+ ![Screenshot 2025-03-04 212951](https://github.com/user-attachments/assets/d277b655-0195-4459-b00a-c86808a76b91)
     
-    ![Screenshot 2025-03-04 212951](https://github.com/user-attachments/assets/d277b655-0195-4459-b00a-c86808a76b91)
-    
- - Gain obtained is 10.5dB
+ - Gain obtained is 10.5dB  
 
 ## CIRCUIT 2 : Current Source-Loaded Differential Pair:  
 
