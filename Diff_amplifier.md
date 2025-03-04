@@ -6,7 +6,7 @@
  
  Differential Pair with Current Source:- Replacing the source resistor (𝑅ss) with a current source improves the gain, stability, and common-mode rejection ratio (CMRR) of the amplifier.  
 
- Differential Pair with Single MOSFET Current Source:- A single MOSFET acts as a current source instead of using a current source.This simplifies the design while still improving gain.  
+ Differential Pair with Single MOSFET as Current Source:- A single MOSFET acts as a current source instead of using a current source.This simplifies the design while still improving gain.  
 
 Active Load Differential Pair (MOSFET as Load):- Both Iss and Rd are replaced with a mosfet.Gain is very high.  
 
@@ -49,7 +49,7 @@ Above circuit depecits the two NMOSFET having same Vdd connected to a single res
   caluculate vincm(min), Vincm(max), Vout(min), Vout(max).  
 Vincm(min)= Vth + Vp =0.489+ 0.6 = 1.089  
 Vincm(max) = Vdd - (Id*Rd) + Vth = 2.218V  
-Vout(min) = Vov1 + Vov3 = ()+ = 0.94V  
+Vout(min) = Vov1 + Vov3 = 
 Vout(max) = Vdd-(Id*Rd) = 1.738V  
 
 Perform Transient Analysis :    
@@ -83,7 +83,27 @@ Run the simulation.
 
 ### DC analysis :  
 
-![current dc](https://github.com/user-attachments/assets/93b7f3c9-d289-4b60-b051-e39028d19a5d)
+![current dc](https://github.com/user-attachments/assets/93b7f3c9-d289-4b60-b051-e39028d19a5d)  
+
+### Transient Analysis :  
+
+![current trans](https://github.com/user-attachments/assets/94cbff78-75eb-4e24-a69c-69d2878484f2)  
+
+### AC Analysis :  
+
+![current ac](https://github.com/user-attachments/assets/fc497957-f5fe-418e-8a45-fef233d9f220)  
+
+
+## CIRCUIT 3 : Differential Pair with Single MOSFET as Current Source
+
+
+
+
+
+
+
+
+
 
 
 
