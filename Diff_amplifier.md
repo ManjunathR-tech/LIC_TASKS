@@ -31,8 +31,13 @@ With above specifications also extract the following parameters:
 
 Above circuit depecits the two NMOSFET having same Vdd connected to a single resistor Rss(Ron3) this constitutes differential amplifier with resistive load.  
 
+#### Procedure
+ 
+- Circuit 
+ ![IMG-20250303-WA0005.jpg](https://github.com/user-attachments/assets/beac2cf1-9d3a-4c21-8823-efaa5b459583)
 
 
+  - Perform DC analysis to obtain operating point(.op) by adjusting width and length of both MOSFETS
 
 
 
