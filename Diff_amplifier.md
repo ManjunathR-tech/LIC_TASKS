@@ -29,7 +29,7 @@ With above specifications also extract the following parameters:
   ### Circuit 1: Differential Amplifier with a Resistive Load
   ![IMG_20250303_074814.jpg](https://github.com/user-attachments/assets/cfc32586-fcce-4aa7-b1e8-74ae135d6dd4)
 
-Above circuit depecits the two common source amplifier having same Vdd connected to a single resistor Rss(Ron3) this constitutes differential amplifier with resistive load.  
+Above circuit depecits the two NMOSFET having same Vdd connected to a single resistor Rss(Ron3) this constitutes differential amplifier with resistive load.  
 
 
 
