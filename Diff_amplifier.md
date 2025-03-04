@@ -6,9 +6,18 @@
  
  Differential Pair with Current Source:- Replacing the source resistor (𝑅ss) with a current source improves the gain, stability, and common-mode rejection ratio (CMRR) of the amplifier.  
 
- Differential Pair with Single MOSFET Current Source:-A single MOSFET acts as a current source instead of using a current source.This simplifies the design while still improving gain.  
+ Differential Pair with Single MOSFET Current Source:- A single MOSFET acts as a current source instead of using a current source.This simplifies the design while still improving gain.  
 
 Active Load Differential Pair (MOSFET as Load):- Both Iss and Rd are replaced with a mosfet.Gain is very high.  
+
+### *Aim*
+  Perform  DC, Transient and AC analysis of differential amplifier with the following specifications using LT Spice      
+
+- *Vdd* = 2V 
+- *Vin* = 1V 
+- *Power budget* = 1mW 
+- *Vo,cm* = 1.1V 
+- *Vp* = 0.4V
 
 
 
