@@ -38,18 +38,21 @@ Above circuit depecits the two NMOSFET having same Vdd connected to a single res
 ![ckt](https://github.com/user-attachments/assets/6d7fa9c5-12ba-43ba-a8b6-218cfa17a1da)
 
 
-  * Perform DC analysis to obtain operating point(.op) by adjusting width and length of both MOSFETS and Set the Rd and Rss values such that the transistors will operate in saturation region.
+* Perform DC analysis to obtain operating point(.op) by adjusting width and length of both MOSFETS and Set the Rd and Rss values such that the transistors will operate in saturation region.
 * Vary W/L to get the required Voutcm.  
 * Vary Rd to set exact Voutcm.  
 * Go to "Simulate" > "Edit Simulation Cmd" > "DC op pnt".
   
   ![Screenshot 2025-03-04 203942](https://github.com/user-attachments/assets/32f4794a-a87d-4656-864b-6d1f14ee01de)
 
-  ![IMG-20250303-WA0006.jpg](https://github.com/user-attachments/assets/630f615f-d7f0-4bea-b38c-20eecbfc8c61)
+- Operating point (1.7V , 0.43mA) is obtained at length=180nm and width=2.536uum for both the MOSFETs.
 
-- Operating point (1.1V , 0.25mA) is obtained at length=180nm and width=19.3625um for both the MOSFETs. 
+- ![Screenshot 2025-03-04 210733](https://github.com/user-attachments/assets/a67474b3-9ab0-4f96-a407-d85b36247270)
 
-![IMG_20250303_135129.jpg](https://github.com/user-attachments/assets/205ec111-bf04-4652-8462-0c88cc481ee7)
+
+
+
+
 
 
 
