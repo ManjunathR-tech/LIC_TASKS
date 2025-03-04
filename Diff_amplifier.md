@@ -31,14 +31,18 @@ With above specifications also extract the following parameters:
 
 Above circuit depecits the two NMOSFET having same Vdd connected to a single resistor Rss(Ron3) this constitutes differential amplifier with resistive load.  
 
-### Procedure
+### Procedure:
  
 - Circuit
 
 ![ckt](https://github.com/user-attachments/assets/6d7fa9c5-12ba-43ba-a8b6-218cfa17a1da)
 
 
-  - Perform DC analysis to obtain operating point(.op) by adjusting width and length of both MOSFETS
+  * Perform DC analysis to obtain operating point(.op) by adjusting width and length of both MOSFETS and Set the Rd and Rss values such that the transistors will operate in saturation region.
+* Vary W/L to get the required Voutcm.  
+* Vary Rd to set exact Voutcm.  
+* Go to "Simulate" > "Edit Simulation Cmd" > "DC op pnt".
+
 
 
 
