@@ -47,7 +47,7 @@ Above circuit depecits the two NMOSFET having same Vdd connected to a single res
 
 - Operating point (1.10V , 0.438mA) is obtained at length=180nm and width=2.536uum for both the MOSFETs.
   caluculate vincm(min), Vincm(max), Vout(min), Vout(max).  
-Vincm(min)= Vth + Vp =0.489+ 0.6 = 1.089  
+Vincm(min)= Vth + Vp =0.36 + 0.6 = 0.96  
 Vincm(max) = Vdd - (Id*Rd) + Vth = 2.218V  
 Vout(min) = Vov1 + Vov3 = 
 Vout(max) = Vdd-(Id*Rd) = 1.738V  
