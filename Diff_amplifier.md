@@ -106,6 +106,9 @@ Run the simulation.
 
 ### AC Analysis :  
 
+![image](https://github.com/user-attachments/assets/9ff5dbff-2ba0-45de-851f-f32ac91d568f)
+
+
 
 
 
