@@ -81,7 +81,13 @@ Itotal=1mW/1.8V
 Itotal=0.555mA    
 Therefore,Iref=0.185mA  
 
-![Screenshot 2025-03-23 222519](https://github.com/user-attachments/assets/4c45186d-81c5-4add-8565-c94b756087ce)
+![Screenshot 2025-03-23 222519](https://github.com/user-attachments/assets/4c45186d-81c5-4add-8565-c94b756087ce)  
+
+## Transient Analysis:  
+
+![Screenshot 2025-03-23 222816](https://github.com/user-attachments/assets/e4a79bdb-80de-40c9-9d7c-265384f2e129)
+
+The obtained gain from the transient analysis is -11.68V/V.
 
 
 
