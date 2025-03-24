@@ -91,7 +91,12 @@ The Expected gain of the circuit is -10V/V.But the obtained gain from the transi
 ## AC Analysis:  
 
 ![Screenshot 2025-03-23 222944](https://github.com/user-attachments/assets/10d5cd69-e8bf-4f04-8c55-aabb55e1ec70)  
-The obtained gain from the AC analysis(frequency response) is 24.6db.
+The obtained gain from the AC analysis(frequency response) is 24.6db.  
+
+
+**3db Bandwidth:**
+
+The obatined 3db B.W=1.175GHz.
 
 
 
