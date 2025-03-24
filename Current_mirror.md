@@ -74,12 +74,15 @@ The obatined 3db B.W=2.267GHz.
 ## DC Analysis:[for mirror ratio 1:2]  
 
 We know that already Itotal=Iref+Ix    
-For 1:2 ratio 2*Iref=Ix
-So,Iref=Itotal/3
-Itotal=P/Vdd
-Itotal=1mW/1.8V
-Itotal=0.555mA.
-Therefore,Iref=0.185mA
+For 1:2 ratio 2*Iref=Ix  
+So,Iref=Itotal/3  
+Itotal=P/Vdd  
+Itotal=1mW/1.8V  
+Itotal=0.555mA    
+Therefore,Iref=0.185mA  
+
+![Screenshot 2025-03-23 222519](https://github.com/user-attachments/assets/4c45186d-81c5-4add-8565-c94b756087ce)
+
 
 
 
