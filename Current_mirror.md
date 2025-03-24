@@ -113,7 +113,18 @@ ratios.
 As the mirror ratio increases, the drain current (Id) scales proportionally, confirming the circuit's effectiveness in current duplication.  
 Increasing the mirror ratio for 1:1 to 1:2 results in higher gain but also reduces bandwidth, affecting the circuit's frequency response.  
 AC analysis shows the circuit has a high gain and wide frequency range, making it good for high-speed applications.  
-The simulation results closely match theoretical expectations, validating the circuit's performance and its suitability for analog applications.
+The simulation results closely match theoretical expectations, validating the circuit's performance and its suitability for analog applications.  
+
+
+
+# PART-B  
+
+Design the differential amplifier with 2 Differencial pair with current source.  
+
+## CIRCUIT DIAGRAM 
+
+
+
 
 
 
