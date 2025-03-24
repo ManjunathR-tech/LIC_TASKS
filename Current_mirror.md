@@ -96,7 +96,20 @@ The obtained gain from the AC analysis(frequency response) is 24.6db.
 
 **3db Bandwidth:**
 
-The obatined 3db B.W=1.175GHz.
+The obatined 3db B.W=1.175GHz.  
+
+
+### Inference:  
+
+The PMOS current mirror circuit accurately replicates the reference current with minimal deviation, ensuring reliable current mirroring across different W/L 
+ratios.  
+As the mirror ratio increases, the drain current (Id) scales proportionally, confirming the circuit's effectiveness in current duplication.  
+Increasing the mirror ratio for 1:1 to 1:2 results in higher gain but also reduces bandwidth, affecting the circuit's frequency response.  
+AC analysis shows the circuit has a high gain and wide frequency range, making it good for high-speed applications.  
+The simulation results closely match theoretical expectations, validating the circuit's performance and its suitability for analog applications.
+
+
+
 
 
 
