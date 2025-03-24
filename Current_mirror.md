@@ -25,6 +25,12 @@ PMOS current Mirroring
   - **Gain(Av)** > -10V/V
   - **Power supply(Vdd)** = 1.8V
   - **Power(P)** <= 1mW
+  - **It=P/Vdd.**
+  - **It=Iref+Ix.**
+
+## DC Analysis:(for mirror ratio 1:1)
+
+    
 
 
 
