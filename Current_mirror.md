@@ -28,7 +28,7 @@ PMOS current Mirroring
   - **It=P/Vdd.**
   - **It=Iref+Ix.**
 
-## DC Analysis:(for mirror ratio 1:1)
+## DC Analysis:[for mirror ratio 1:1]
 
     
 
