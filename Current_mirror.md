@@ -62,7 +62,10 @@ The obtained gain from the transient analysis is -10.2V/V.
 ## AC Analysis:
 
 ![Screenshot 2025-03-23 222148](https://github.com/user-attachments/assets/696c6eed-7d79-48c3-8b3b-5e54bd74f039)  
-The Expected gain in db of the circuit is 20db.But the obtained gain from the AC analysis(frequency response) is 22.16db.
+The Expected gain in db of the circuit is 20db.But the obtained gain from the AC analysis(frequency response) is 22.16db.  
+
+**3db Bandwidth:**  
+The obatined 3db B.W=2.267GHz.
 
 
 
