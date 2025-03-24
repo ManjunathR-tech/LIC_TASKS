@@ -42,7 +42,7 @@ Therefore,Iref=Ix= 0.2778mA
 
 ### Analyzing the current mirroring circuit by changing the w and L but with the same ratio.  
 
-**-L=500nm.**
+**L=500nm.**
 
 We know (w/L) ratio which is 16.667.
 
@@ -57,12 +57,12 @@ Therefore for L=500nm the w=8.334um.
 ## Transient Analysis:  
 
 ![Screenshot 2025-03-23 221946](https://github.com/user-attachments/assets/be56f207-c1fc-464a-acc8-6445a1199073)  
--The obtained gain from the transient analysis is -10.2V/V.  
+The obtained gain from the transient analysis is -10.2V/V.  
 
 ## AC Analysis:
 
 ![Screenshot 2025-03-23 222148](https://github.com/user-attachments/assets/696c6eed-7d79-48c3-8b3b-5e54bd74f039)  
--The Expected gain in db of the circuit is 20db.But the obtained gain from the AC analysis(frequency response) is 22.16db.
+The Expected gain in db of the circuit is 20db.But the obtained gain from the AC analysis(frequency response) is 22.16db.
 
 
 
