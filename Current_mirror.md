@@ -32,7 +32,7 @@ PMOS current Mirroring
 
 We know that already Itotal=Iref+Ix  
 For 1:1 ratio Iref=Ix  
-So,Iref=It/2  
+So,Iref=Itotal/2  
 Itotal=P/Vdd  
 Itotal=1mW/1.8V  
 Itotal=0.555mA.  
@@ -71,8 +71,15 @@ The obatined 3db B.W=2.267GHz.
 ![Screenshot 2025-03-22 155941](https://github.com/user-attachments/assets/f162d225-40dd-4f49-b466-eae9243c31a6)  
 
 
-## DC Analysis:[for mirror ratio 1:2]
+## DC Analysis:[for mirror ratio 1:2]  
 
+We know that already Itotal=Iref+Ix    
+For 1:2 ratio 2*Iref=Ix
+So,Iref=Itotal/3
+Itotal=P/Vdd
+Itotal=1mW/1.8V
+Itotal=0.555mA.
+Therefore,Iref=0.185mA
 
 
 
