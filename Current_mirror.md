@@ -85,14 +85,12 @@ Therefore,Iref=0.185mA
 
 ## Transient Analysis:  
 
-![Screenshot 2025-03-23 222816](https://github.com/user-attachments/assets/e4a79bdb-80de-40c9-9d7c-265384f2e129)
-
+![Screenshot 2025-03-23 222816](https://github.com/user-attachments/assets/e4a79bdb-80de-40c9-9d7c-265384f2e129)  
 The Expected gain of the circuit is -10V/V.But the obtained gain from the transient analysis is -11.68V/V.  
 
 ## AC Analysis:  
 
-![Screenshot 2025-03-23 222944](https://github.com/user-attachments/assets/10d5cd69-e8bf-4f04-8c55-aabb55e1ec70)
-
+![Screenshot 2025-03-23 222944](https://github.com/user-attachments/assets/10d5cd69-e8bf-4f04-8c55-aabb55e1ec70)  
 The obtained gain from the AC analysis(frequency response) is 24.6db.
 
 
