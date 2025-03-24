@@ -98,6 +98,13 @@ The obtained gain from the AC analysis(frequency response) is 24.6db.
 
 The obatined 3db B.W=1.175GHz.  
 
+### **Comparison Table:**
+| **Parameter** | **Mirror Ratio 1:1** (Theory) | **Mirror Ratio 1:1** (Practical) | **Mirror Ratio 1:2** (Theory) | **Mirror Ratio 1:2** (Practical) |
+|---------------|-------------------------------|----------------------------------|-------------------------------|----------------------------------|
+| Av (in dB)    |         20 dB                 |       22.16 dB                   |          21.34 dB             |           24.6 dB                |
+| Av (in V/V)   |          -10                  |        -10.2                     |           -10                 |           -11.68                 |
+| 3 dB Bandwidth|           -                   |       2.267 GHz                  |             -                 |           1.175 GHz              |  
+
 
 ### Inference:  
 
