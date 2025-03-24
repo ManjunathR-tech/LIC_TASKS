@@ -1,5 +1,6 @@
 ## EXPERIMENT - 06 {CURRENT MIRROR CIRCUIT}  
-
+# Current Mirror 
+A current mirror circuit is a fundamental building block in analog electronics used to replicate a reference current with high accuracy.
 ### OBJECTIVE
   To design and analyze a current mirror circuit as an active load in a common-source amplifier.  
 
