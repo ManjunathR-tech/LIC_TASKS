@@ -68,7 +68,10 @@ The Expected gain in db of the circuit is 20db.But the obtained gain from the AC
 The obatined 3db B.W=2.267GHz.  
 
 
-![Screenshot 2025-03-22 155941](https://github.com/user-attachments/assets/f162d225-40dd-4f49-b466-eae9243c31a6)
+![Screenshot 2025-03-22 155941](https://github.com/user-attachments/assets/f162d225-40dd-4f49-b466-eae9243c31a6)  
+
+
+## DC Analysis:[for mirror ratio 1:2]
 
 
 
