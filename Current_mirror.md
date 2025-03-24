@@ -38,7 +38,27 @@ Itotal=1mW/1.8V
 Itotal=0.555mA.  
 Therefore,Iref=Ix= 0.2778mA  
 
-![Screenshot 2025-03-23 221756](https://github.com/user-attachments/assets/21d81de3-4186-430e-95d5-fb614443a823)
+![Screenshot 2025-03-23 221756](https://github.com/user-attachments/assets/21d81de3-4186-430e-95d5-fb614443a823)  
+
+### Analyzing the current mirroring circuit by changing the w and L but with the same ratio.  
+
+**-L=500nm.**
+
+We know (w/L) ratio which is 16.667.
+
+Therefore for L=500nm the w=8.334um.
+
+|  Mosfet   |      Id       |  
+|-----------|---------------|
+|  M1       |   0.000281241 |             
+|  M2       |   0.000281241 |             
+|  M3       |   0.0002778   |             
+
+
+
+
+
+
 
 
     
