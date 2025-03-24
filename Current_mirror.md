@@ -4,7 +4,7 @@ A current mirror circuit is a fundamental building block in analog electronics u
 
 ## Classification based on type of moseft used in current mirror circits  
 NMOS Currnet Mirroring  
- Used: N-channel MOSFETs  
+   - Used: N-channel MOSFETs  
    - One NMOS transistor is diode-connected  to set the reference current.  
    - Ensures stable and precise current mirroring.  
 
