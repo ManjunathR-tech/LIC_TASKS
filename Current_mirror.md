@@ -38,6 +38,9 @@ Itotal=1mW/1.8V
 Itotal=0.555mA.  
 Therefore,Iref=Ix= 0.2778mA  
 
+![Screenshot 2025-03-23 221756](https://github.com/user-attachments/assets/21d81de3-4186-430e-95d5-fb614443a823)
+
+
     
 
 
