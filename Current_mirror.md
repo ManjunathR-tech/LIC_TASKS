@@ -11,8 +11,8 @@ NMOS Currnet Mirroring
 ![images](https://github.com/user-attachments/assets/af301326-3b42-4a14-84d0-20c50c3e3bb4)  
 
 PMOS current Mirroring
-   - Uses: P-channel MOSFETs
-   - The reference current is set using a diode-connected PMOS transistor, and another PMOS mirrors it.
+   - Used: P-channel MOSFETs
+   - The reference current is set using a diode-connected PMOS transistor, with another PMOS mirroring it.
 
 ![image](https://github.com/user-attachments/assets/1a870006-1e99-448a-b5e7-c4ddd99f8417)
 
