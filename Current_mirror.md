@@ -28,7 +28,15 @@ PMOS current Mirroring
   - **It=P/Vdd.**
   - **It=Iref+Ix.**
 
-## DC Analysis:[for mirror ratio 1:1]
+## DC Analysis:[for mirror ratio 1:1]  
+
+We know that already Itotal=Iref+Ix  
+For 1:1 ratio Iref=Ix  
+So,Iref=It/2  
+Itotal=P/Vdd  
+Itotal=1mW/1.8V  
+Itotal=0.555mA.  
+Therefore,Iref=Ix= 0.2778mA  
 
     
 
