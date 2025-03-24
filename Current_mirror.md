@@ -57,6 +57,7 @@ Therefore for L=500nm the w=8.334um.
 ## Transient Analysis:  
 
 ![Screenshot 2025-03-23 221946](https://github.com/user-attachments/assets/be56f207-c1fc-464a-acc8-6445a1199073)  
+The obtained gain from the transient analysis is -10.2V/V.
 
 
 
