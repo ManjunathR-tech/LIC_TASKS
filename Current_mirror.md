@@ -87,8 +87,7 @@ Therefore,Iref=0.185mA
 
 ![Screenshot 2025-03-23 222816](https://github.com/user-attachments/assets/e4a79bdb-80de-40c9-9d7c-265384f2e129)
 
-The obtained gain from the transient analysis is -11.68V/V.
-
+The Expected gain of the circuit is -10V/V.But the obtained gain from the transient analysis is -11.68V/V.
 
 
 
