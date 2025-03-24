@@ -16,12 +16,17 @@ PMOS current Mirroring
 
 ![image](https://github.com/user-attachments/assets/1a870006-1e99-448a-b5e7-c4ddd99f8417)
 
-
-
-
-
 ### OBJECTIVE
   To design and analyze a current mirror circuit as an active load in a common-source amplifier.  
+
+  ![image](https://github.com/user-attachments/assets/d78da15e-9d51-4c8b-b3c1-73b958d48fff)  
+
+  
+  - **Gain(Av)** > -10V/V
+  - **Power supply(Vdd)** = 1.8V
+  - **Power(P)** <= 1mW
+
+
 
 
 
