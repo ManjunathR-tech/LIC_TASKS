@@ -125,8 +125,10 @@ The simulation results closely match theoretical expectations, validating the ci
 
 ![Screenshot 2025-03-25 001233](https://github.com/user-attachments/assets/94fa6fc3-1b2d-4b55-8f7f-fd8cc10ad206)  
 
-## DC ANALYSIS:
+## DC ANALYSIS:  
 
+The circuit consists of six MOSFETs (M1 to M6),each with different width-to-length (W/L) ratios.To ensure accurate analysis,all transistors must operate in the   saturation region.  
+DC analysis focuses on identifying the voltage and current levels at various nodes in the circuit. Based on the previous experiment, the following conditions must be met Current Matching & Voltage Stability.
 
 
 
