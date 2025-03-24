@@ -52,7 +52,13 @@ Therefore for L=500nm the w=8.334um.
 |-----------|---------------|
 |  M1       |   0.000281241 |             
 |  M2       |   0.000281241 |             
-|  M3       |   0.0002778   |             
+|  M3       |   0.0002778   |       
+
+## Transient Analysis:  
+
+![Screenshot 2025-03-23 221946](https://github.com/user-attachments/assets/be56f207-c1fc-464a-acc8-6445a1199073)  
+
+
 
 
 
