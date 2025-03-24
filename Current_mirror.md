@@ -119,7 +119,7 @@ The simulation results closely match theoretical expectations, validating the ci
 
 # PART-B  
 
-Design the differential amplifier with 2 Differencial pair with current source.  
+### Design the differential amplifier with 2 Differencial pair with current source.  
 
 ## CIRCUIT DIAGRAM 
 
