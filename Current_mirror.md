@@ -132,9 +132,11 @@ DC analysis focuses on identifying the voltage and current levels at various nod
 
 ![Screenshot 2025-03-25 000619](https://github.com/user-attachments/assets/1ffb6b82-b0fe-4bd4-a872-2d7a999899ac)  
 
+## Transient Analysis:  
 
+![Screenshot 2025-03-25 232303](https://github.com/user-attachments/assets/ec35d4f0-e80c-4240-bb2b-5d0c47f9160f)  
 
-
+## AC Analysis: 
 
 ![image](https://github.com/user-attachments/assets/9db4f418-0185-4105-a534-2aed9265adc3)
 
