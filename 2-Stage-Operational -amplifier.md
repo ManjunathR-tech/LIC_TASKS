@@ -47,7 +47,9 @@
 * Vdd = 3.3V
 * Id = 8mW/3.3V = 2.424242 mA
 
-![alt text](https://github.com/nikhil1198/2-Stage-Operational-Amplifier/blob/master/calc.JPG)
+
+!![image](https://github.com/user-attachments/assets/4aea83e6-054f-4af3-b260-b9a936fcf086)
+
 
 # LTSpice Simulation Results:
 * Input:
